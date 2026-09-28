@@ -1,0 +1,17 @@
+{
+    "name": "user/laninas",
+    "autoload": {
+        "psr-4": {
+            "User\\Laninas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pria Dimas",
+            "email": "priadimas64@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
